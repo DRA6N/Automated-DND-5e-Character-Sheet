@@ -11,6 +11,7 @@ Some of the features include:
 - Allows selection of skills when choosing a Class that gives you an option which skill you'd like to take.
 - Ability Score Roller - 4d6 drop, 3d6, 3d6+6 
 - Auto-generates a Spells sheet if a spellcaster Class is selected
+- Custom colored character sheets
 ... and so much more!
 
 ------------
